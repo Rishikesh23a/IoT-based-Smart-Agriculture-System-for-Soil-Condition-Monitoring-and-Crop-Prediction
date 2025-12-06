@@ -45,7 +45,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 • Training files, pipeline, encoded samples, and ML models included
 
-<h2>## 💼 Hardware Components Used<h2>
+<h2>## 💼 Hardware Components Used</h2>
 
 | 🔌 Component                |   📝Purpose                        |
 |-----------------------------|-------------------------------------|
@@ -59,7 +59,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 
 
-🔌 Working Architecture
+<h2>🔌 Working Architecture</h2>
 
 1️⃣ Sensors collect environmental parameters
 
@@ -110,7 +110,7 @@ IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Predic
 └── .gitattributes
 ```
 
-🚀 Firebase Setup (Short Guide)
+<h2>🚀 Firebase Setup (Short Guide)</h2>
 
 1.Go to Firebase Console → Create Project
 
@@ -128,7 +128,7 @@ https://your-project-id-default-rtdb.firebaseio.com/
 
 6.Upload code → Open Serial Monitor → Values update in Firebase
 
-📱 Mobile App (Bolt.Ai)
+<h2>📱 Mobile App (Bolt.Ai)</h2>
 
 The app includes:
 
