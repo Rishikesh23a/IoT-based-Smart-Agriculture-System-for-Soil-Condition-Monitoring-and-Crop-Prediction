@@ -193,10 +193,15 @@ Includes:
 🎓 Learning Outcomes
 
 ✔ Built a complete IoT pipeline: Sensors → Microcontroller → Cloud → App
+
 ✔ Implemented Machine Learning for crop prediction
+
 ✔ Designed a Power BI dashboard for analysis
+
 ✔ Learned Firebase integration
+
 ✔ Practiced GitHub version control & project organization
+
 ✔ Understood full-stack IoT + ML development
 
 🔮 Future Enhancements
