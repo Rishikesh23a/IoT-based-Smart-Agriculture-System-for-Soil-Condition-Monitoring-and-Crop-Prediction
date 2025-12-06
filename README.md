@@ -1,6 +1,4 @@
-# IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction
-
-🌾 IoT-based Smart Agriculture System for Soil Condition Monitoring and Crop Prediction
+# 🌾 IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction
 
 This project is an IoT-enabled Smart Agriculture System designed to monitor soil and environmental conditions—including temperature, humidity, soil moisture, and pH—using ESP8266 NodeMCU and real-time cloud connectivity through Firebase.
 
@@ -19,11 +17,11 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 • Soil pH Measurement
 
-☁ Cloud Connectivity
+🌾☁ Cloud Connectivity🌾
 
 • Real-time data updates to Firebase Realtime Database
 
-📱 Mobile App
+🌾📱 Mobile App🌾
 
 • Dashboard built using bolt.Ai
 
