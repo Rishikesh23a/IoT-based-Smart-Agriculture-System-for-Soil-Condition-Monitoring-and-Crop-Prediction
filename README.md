@@ -47,15 +47,20 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 • Training files, pipeline, encoded samples, and ML models included
 
-🧰 Hardware Components Used
-Component	Purpose
-ESP8266 NodeMCU	WiFi-enabled microcontroller
-DHT11	Temperature & humidity sensor
-Soil Moisture Sensor	Monitors soil water content
-pH Sensor	Measures soil acidity/alkalinity
-Breadboard + Jumper Wires	Prototyping
-Firebase	Cloud storage for sensor data
-Mobile App (MIT App Inventor)	Real-time monitoring
+## 💼 Hardware Components Used
+
+| 🔌 Component                | Purpose                            |
+|-----------------------------|-------------------------------------|
+| **ESP8266 NodeMCU**         | WiFi-enabled microcontroller        |
+| **DHT11**                   | Temperature & humidity sensor       |
+| **Soil Moisture Sensor**    | Monitors soil water content         |
+| **pH Sensor**               | Measures soil acidity/alkalinity    |
+| **Breadboard + Jumper Wires** | Prototyping                       |
+| **Firebase**                | Cloud storage for sensor data       |
+| **Mobile App (MIT App Inventor)** | Real-time monitoring         |
+
+
+
 🔌 Working Architecture
 
 1️⃣ Sensors collect environmental parameters
