@@ -4,7 +4,7 @@
 
 This project is an IoT-enabled Smart Agriculture System designed to monitor soil and environmental conditions—including temperature, humidity, soil moisture, and pH—using ESP8266 NodeMCU and real-time cloud connectivity through Firebase.
 
-Additionally, it includes a Machine Learning–based Crop Recommendation System, a Power BI Dashboard, and a mobile application built using MIT App Inventor for live monitoring.
+Additionally, it includes a Machine Learning–based Crop Recommendation System, a Power BI Dashboard, and a mobile application built using bolt.Ai for live monitoring.
 
 This system aims to support farmers with data-driven decision-making and optimized crop cultivation.
 
@@ -25,7 +25,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 📱 Mobile App
 
-• Dashboard built using MIT App Inventor
+• Dashboard built using bolt.Ai
 
 • Displays live field conditions
 
@@ -57,7 +57,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 | **pH Sensor**               | Measures soil acidity/alkalinity    |
 | **Breadboard + Jumper Wires** | Prototyping                       |
 | **Firebase**                | Cloud storage for sensor data       |
-| **Mobile App (MIT App Inventor)** | Real-time monitoring         |
+| **Mobile App (bolt.Ai)** | Real-time monitoring         |
 
 
 
@@ -69,7 +69,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 3️⃣ Data is uploaded to Firebase Realtime Database
 
-4️⃣ MIT App Inventor app fetches & displays live data
+4️⃣ bolt.Ai app fetches & displays live data
 
 5️⃣ ML model predicts suitable crops
 
@@ -106,7 +106,7 @@ IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Predic
 │   └── Firebase DB structure, screenshots, rules
 │
 ├── Mobile_app/
-│   └── Screenshots of MIT App Inventor UI
+│   └── Screenshots of bolt.Ai
 │
 ├── README.md
 └── .gitattributes
@@ -144,9 +144,6 @@ The app includes:
 
 🔄 Auto-refresh using Firebase live values
 
-Screenshots are available inside:
-
-Mobile_app/
 
 🤖 Crop Recommendation ML Model
 
