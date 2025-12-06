@@ -211,6 +211,7 @@ Includes:
 
 • Solar-powered IoT system
 
+```
 <h2>👨‍💻 Developer</h2>
 
 Rushikesh Sable
@@ -218,3 +219,4 @@ Rushikesh Sable
 MIT AOE College,Pune
 
 📧 rushikeshsable9850@gmail.com
+```
