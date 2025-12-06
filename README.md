@@ -143,7 +143,7 @@ The app includes:
 🔄 Auto-refresh using Firebase live values
 
 
-🤖 Crop Recommendation ML Model
+<h2>🤖 Crop Recommendation ML Model</h2>
 
 The project includes:
 
@@ -169,7 +169,7 @@ The model predicts the best crops based on:
 
 • Environmental conditions
 
-📊 Power BI Dashboard
+<h2>📊 Power BI Dashboard</h2>
 
 Located inside:
 
@@ -185,7 +185,7 @@ Includes:
 
 • Sensor behavior over time
 
-🎓 Learning Outcomes
+<h2>🎓 Learning Outcomes</h2>
 
 ✔ Built a complete IoT pipeline: Sensors → Microcontroller → Cloud → App
 
@@ -199,7 +199,7 @@ Includes:
 
 ✔ Understood full-stack IoT + ML development
 
-🔮 Future Enhancements
+<h2>🔮 Future Enhancements</h2>
 
 • Automated irrigation system using relay + water pump
 
@@ -211,7 +211,7 @@ Includes:
 
 • Solar-powered IoT system
 
-👨‍💻 Developer
+<h2>👨‍💻 Developer</h2>
 
 Rushikesh Sable
 
