@@ -17,11 +17,11 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 • Soil pH Measurement
 
-🌾☁ Cloud Connectivity🌾
+☁ Cloud Connectivity
 
 • Real-time data updates to Firebase Realtime Database
 
-🌾📱 Mobile App🌾
+📱 Mobile App
 
 • Dashboard built using bolt.Ai
 
