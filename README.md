@@ -114,21 +114,21 @@ IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Predic
 
 🚀 Firebase Setup (Short Guide)
 
-Go to Firebase Console → Create Project
+1.Go to Firebase Console → Create Project
 
-Go to Realtime Database → Create database → Test Mode
+2.Go to Realtime Database → Create database → Test Mode
 
-Copy DB URL:
+3.Copy DB URL:
 
 https://your-project-id-default-rtdb.firebaseio.com/
 
 
-Get API Key from:
+4.Get API Key from:
 → Project Settings → General → Web API Key
 
-Add both values inside your ESP8266 .ino code
+5.Add both values inside your ESP8266 .ino code
 
-Upload code → Open Serial Monitor → Values update in Firebase
+6.Upload code → Open Serial Monitor → Values update in Firebase
 
 📱 Mobile App (MIT App Inventor)
 
