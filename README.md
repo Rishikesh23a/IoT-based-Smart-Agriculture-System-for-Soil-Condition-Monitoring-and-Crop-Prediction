@@ -212,7 +212,7 @@ Includes:
 • Solar-powered IoT system
 
 ```
-<h2>👨‍💻 Developer</h2>
+👨‍💻 Developer
 
 Rushikesh Sable
 
