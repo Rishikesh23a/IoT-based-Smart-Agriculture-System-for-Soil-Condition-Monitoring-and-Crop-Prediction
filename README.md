@@ -64,10 +64,15 @@ This system aims to support farmers with data-driven decision-making and optimiz
 🔌 Working Architecture
 
 1️⃣ Sensors collect environmental parameters
+
 2️⃣ ESP8266 reads sensor data
+
 3️⃣ Data is uploaded to Firebase Realtime Database
+
 4️⃣ MIT App Inventor app fetches & displays live data
+
 5️⃣ ML model predicts suitable crops
+
 6️⃣ Power BI dashboard provides analytical insights
 
 🛠 Folder Structure (Based on Your GitHub Repo)
