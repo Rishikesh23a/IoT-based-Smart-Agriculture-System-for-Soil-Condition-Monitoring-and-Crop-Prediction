@@ -6,7 +6,7 @@ Additionally, it includes a Machine Learning–based Crop Recommendation System,
 
 This system aims to support farmers with data-driven decision-making and optimized crop cultivation.
 
-<h2>⭐ Key Features<h2>
+<h2>⭐ Key Features</h2>
 
 
 🌡 Environmental Monitoring
