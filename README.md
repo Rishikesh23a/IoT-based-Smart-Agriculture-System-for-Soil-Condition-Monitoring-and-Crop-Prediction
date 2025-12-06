@@ -130,17 +130,17 @@ https://your-project-id-default-rtdb.firebaseio.com/
 
 6.Upload code → Open Serial Monitor → Values update in Firebase
 
-📱 Mobile App (MIT App Inventor)
+📱 Mobile App (Bolt.Ai)
 
 The app includes:
 
-🌡 Temperature display
+• 🌡 Temperature display
 
-💧 Humidity display
+• 💧 Humidity display
 
-🌱 Soil moisture level
+• 🌱 Soil moisture level
 
-🧪 Soil pH value
+• 🧪 Soil pH value
 
 🔄 Auto-refresh using Firebase live values
 
@@ -152,27 +152,27 @@ Mobile_app/
 
 The project includes:
 
-RandomForest.pkl
+• RandomForest.pkl
 
-Trained ML pipeline
+• Trained ML pipeline
 
-Dataset used for training
+• Dataset used for training
 
-Preprocessing files
+• Preprocessing files
 
-Deployment screenshots (Streamlit)
+• Deployment screenshots (Streamlit)
 
 The model predicts the best crops based on:
 
-Soil pH
+• Soil pH
 
-Moisture
+• Moisture
 
-Temperature
+• Temperature
 
-Humidity
+• Humidity
 
-Environmental conditions
+• Environmental conditions
 
 📊 Power BI Dashboard
 
@@ -182,13 +182,13 @@ Dashboard_Power_Bi/
 
 Includes:
 
-Trend analysis
+• Trend analysis
 
-Parameter comparison
+• Parameter comparison
 
-Soil moisture patterns
+• Soil moisture patterns
 
-Sensor behavior over time
+• Sensor behavior over time
 
 🎓 Learning Outcomes
 
@@ -201,15 +201,15 @@ Sensor behavior over time
 
 🔮 Future Enhancements
 
-Automated irrigation system using relay + water pump
+• Automated irrigation system using relay + water pump
 
-Weather API integration
+• Weather API integration
 
-Fertilizer recommendation model
+• Fertilizer recommendation model
 
-Crop disease detection
+• Crop disease detection
 
-Solar-powered IoT system
+• Solar-powered IoT system
 
 👨‍💻 Developer
 
