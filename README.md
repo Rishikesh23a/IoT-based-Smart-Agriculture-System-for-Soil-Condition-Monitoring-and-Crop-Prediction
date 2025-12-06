@@ -75,8 +75,9 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 6️⃣ Power BI dashboard provides analytical insights
 
-```
+
 🛠 Folder Structure (Based on Your GitHub Repo)
+```
 IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction/
 │
 ├── Code/                            # ESP8266 code + library list
