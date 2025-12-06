@@ -1,0 +1,3083 @@
+{
+  "SmartFarm": {
+    "Readings": {
+      "6780": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85842
+        }
+      },
+      "7611": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 28,
+          "pH": 20.85663
+        }
+      },
+      "7716": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "7815": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.5,
+        "pH": 20.85663
+      },
+      "7856": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84229
+        }
+      },
+      "8042": {
+        "Humidity": 60,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.84588
+      },
+      "8054": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85842
+        }
+      },
+      "8057": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "8106": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85842
+      },
+      "8182": {
+        "Humidity": 40,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86201
+      },
+      "8185": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85842
+        }
+      },
+      "8637": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85842
+        }
+      },
+      "9960": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "10090": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 27.1,
+        "pH": 20.84409
+      },
+      "10114": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 27.1,
+          "pH": 20.85663
+        }
+      },
+      "10205": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "11034": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85663
+        }
+      },
+      "14628": {
+        "Humidity": 58,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "17124": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.5,
+        "pH": 20.85484
+      },
+      "17436": {
+        "Humidity": 60,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "17577": {
+        "Humidity": 40,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "17707": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85126
+      },
+      "17836": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "19171": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 27.1,
+        "pH": 20.85484
+      },
+      "19202": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "19519": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "20895": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8405
+        }
+      },
+      "20944": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84767
+        }
+      },
+      "21008": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 28,
+          "pH": 20.85663
+        }
+      },
+      "21190": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85663
+        }
+      },
+      "22133": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.86021
+        }
+      },
+      "22822": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "24321": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 27.1,
+          "pH": 20.85663
+        }
+      },
+      "24449": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.5,
+        "pH": 20.85484
+      },
+      "24785": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.3
+      },
+      "24925": {
+        "Humidity": 60,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.83871
+      },
+      "25264": {
+        "Humidity": 40,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85842
+      },
+      "25280": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "25378": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "25545": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85305
+      },
+      "26488": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85126
+      },
+      "26531": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 27.1,
+        "pH": 20.85663
+      },
+      "26881": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.84767
+      },
+      "31834": {
+        "Humidity": 46,
+        "Moisture": 100,
+        "Temperature": 26.2,
+        "pH": 20.84767
+      },
+      "31938": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "32567": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84767
+        }
+      },
+      "32680": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "32681": {
+        "Humidity": 40,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "32721": {
+        "Humidity": 63,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "32814": {
+        "SmartAgri": {
+          "Humidity": 57,
+          "Moisture": 100,
+          "Temperature": 28,
+          "pH": 20.85663
+        }
+      },
+      "33195": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "33214": {
+        "Humidity": 47,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "33601": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "33968": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.84767
+      },
+      "34212": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 27.1,
+        "pH": 20.84767
+      },
+      "34451": {
+        "Temperature": 25.3
+      },
+      "34539": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85663
+        }
+      },
+      "35177": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.86021
+        }
+      },
+      "36824": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 27.1,
+          "pH": 20.85663
+        }
+      },
+      "38642": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "39257": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "39976": {
+        "Humidity": 40,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86021
+      },
+      "40195": {
+        "Humidity": 62,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "40528": {
+        "Humidity": 47,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "41148": {
+        "Humidity": 46,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.84409
+      },
+      "41194": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "41304": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85126
+      },
+      "41891": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 27.1,
+        "pH": 20.85663
+      },
+      "44267": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84946
+        }
+      },
+      "44373": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "44579": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "46001": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "46702": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "47586": {
+        "SmartAgri": {
+          "Humidity": 49,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8638
+        }
+      },
+      "47633": {
+        "Humidity": 61,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.84588
+      },
+      "47657": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86201
+      },
+      "48007": {
+        "Humidity": 47,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85126
+      },
+      "48665": {
+        "Humidity": 54,
+        "Moisture": 100,
+        "Temperature": 27.8,
+        "pH": 20.85663
+      },
+      "48686": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "49026": {
+        "Humidity": 46,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85126
+      },
+      "49147": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85663
+      },
+      "49993": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "51163": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "54018": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "55102": {
+        "Humidity": 60,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "55947": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84946
+        }
+      },
+      "55998": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85842
+      },
+      "56084": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "56217": {
+        "Humidity": 47,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "56351": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85305
+        }
+      },
+      "56369": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.86201
+      },
+      "56499": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "58507": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "59977": {
+        "SmartAgri": {
+          "Temperature": 26.6
+        }
+      },
+      "61345": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "62248": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.86559
+        }
+      },
+      "62741": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85842
+      },
+      "63290": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "pH": 20.85663
+      },
+      "63563": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "63657": {
+        "Humidity": 47,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "63894": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85842
+      },
+      "63972": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "67614": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.83154
+        }
+      },
+      "67793": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85842
+        }
+      },
+      "68131": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "68968": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "70221": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "70910": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "71206": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "71220": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.86021
+      },
+      "71478": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "74128": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85842
+      },
+      "74538": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.87097
+        }
+      },
+      "76368": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "77758": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "78526": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85126
+      },
+      "78987": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "79086": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "79315": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.81183
+        }
+      },
+      "79481": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "79899": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "81517": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "83342": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "83690": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "85969": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.84767
+      },
+      "86147": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.8638
+      },
+      "86651": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85842
+      },
+      "86693": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "86880": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.86201
+        }
+      },
+      "88975": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "90995": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.83333
+        }
+      },
+      "91029": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "91172": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "91670": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "93469": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86201
+      },
+      "93475": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85484
+      },
+      "94354": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "94375": {
+        "Humidity": 39,
+        "Moisture": 100,
+        "Temperature": 26.7,
+        "pH": 20.85484
+      },
+      "96028": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "96556": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "98279": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "99192": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8638
+        }
+      },
+      "100890": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85663
+      },
+      "101816": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "102665": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8405
+        }
+      },
+      "102858": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "103430": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "103837": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "103855": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86917
+      },
+      "105583": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "108377": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.86021
+      },
+      "108486": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "109491": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "111049": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "111279": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85484
+      },
+      "111565": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.86738
+        }
+      },
+      "112966": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "114343": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84409
+        }
+      },
+      "114548": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "115234": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "115784": {
+        "Humidity": 48,
+        "Moisture": 100,
+        "Temperature": 25.3,
+        "pH": 20.85842
+      },
+      "118643": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "118699": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "120223": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "121006": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "123806": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "126003": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8405
+        }
+      },
+      "126075": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86021
+      },
+      "126238": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "126316": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "127007": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "127620": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "133540": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "133543": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "133608": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85126
+      },
+      "134965": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "136078": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "137664": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.82616
+        }
+      },
+      "137927": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "138772": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "140976": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.84588
+      },
+      "141123": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "142309": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "145830": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "146364": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "148349": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "148395": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.84946
+      },
+      "148396": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85305
+      },
+      "149336": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 99,
+          "Temperature": 26.7,
+          "pH": 20.81183
+        }
+      },
+      "149557": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "149631": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "150553": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "153870": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "155861": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "155957": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "157119": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "158952": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "160570": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "160718": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "161033": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.81362
+        }
+      },
+      "161323": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "162337": {
+        "SmartAgri": {
+          "Humidity": 58,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "163357": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86738
+      },
+      "163436": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85842
+      },
+      "164534": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "167275": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "170797": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85842
+      },
+      "170843": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85484
+      },
+      "171540": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "171738": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "173028": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "173183": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.82616
+        }
+      },
+      "173186": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "174073": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "174107": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "178341": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "178400": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "179034": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "180757": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "184009": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "184776": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "184934": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.8172
+        }
+      },
+      "185486": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "185838": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "185897": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "185925": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86201
+      },
+      "186500": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "187436": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "193322": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "193518": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "194123": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "195511": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "196486": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "196725": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "197895": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "198287": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "202205": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "202555": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86021
+      },
+      "202656": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "203011": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "208983": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "209542": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "210123": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "210399": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "210989": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "211380": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "211482": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86021
+      },
+      "212202": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "215739": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "217578": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "217868": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "218957": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "221244": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "222522": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "223636": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "224694": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "225198": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85842
+      },
+      "225348": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "226870": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85663
+      },
+      "229261": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "232665": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "232855": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85663
+      },
+      "232939": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "234325": {
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86021
+      },
+      "236011": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "236023": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85305
+        }
+      },
+      "237360": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "239983": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "240236": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.6,
+        "pH": 20.85484
+      },
+      "242768": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85663
+        }
+      },
+      "244644": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "244851": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85305
+      },
+      "247304": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "247597": {
+        "Humidity": 53,
+        "Moisture": 100,
+        "Temperature": 27.7,
+        "pH": 20.86201
+      },
+      "248611": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.3,
+          "pH": 20.85484
+        }
+      },
+      "249779": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85842
+        }
+      },
+      "249821": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "252324": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.86201
+      },
+      "254653": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "254955": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85842
+      },
+      "256362": {
+        "SmartAgri": {
+          "Humidity": 64,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "256521": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "259995": {
+        "Humidity": 59,
+        "Moisture": 100,
+        "Temperature": 25.8,
+        "pH": 20.85842
+      },
+      "261527": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "262056": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "262271": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85484
+        }
+      },
+      "262507": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "263258": {
+        "SmartAgri": {
+          "Humidity": 59,
+          "Moisture": 100,
+          "Temperature": 27.6,
+          "pH": 20.85484
+        }
+      },
+      "269370": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "270067": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "274138": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85305
+        }
+      },
+      "274529": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.83871
+        }
+      },
+      "276737": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "277229": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "284086": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "284914": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "286465": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.85663
+        }
+      },
+      "286804": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.83871
+        }
+      },
+      "291419": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "292715": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "298744": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "299062": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.84588
+        }
+      },
+      "299378": {
+        "SmartAgri": {
+          "Moisture": 100,
+          "pH": 20.85663
+        }
+      },
+      "300248": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "306109": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "307755": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "311300": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.7,
+          "pH": 20.83871
+        }
+      },
+      "313424": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "315308": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "320778": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "323115": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85663
+      },
+      "323600": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.3,
+          "pH": 20.83871
+        }
+      },
+      "328453": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "330659": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "335920": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.8405
+        }
+      },
+      "335987": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "338018": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85484
+      },
+      "343444": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "345836": {
+        "Humidity": 52,
+        "Moisture": 100,
+        "Temperature": 28,
+        "pH": 20.85842
+      },
+      "348379": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.8405
+        }
+      },
+      "350735": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "358403": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "360808": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.83871
+        }
+      },
+      "365736": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.87097
+      },
+      "373042": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86917
+      },
+      "373372": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.8405
+        }
+      },
+      "382202": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86738
+      },
+      "385620": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.83692
+        }
+      },
+      "389853": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.87097
+      },
+      "397439": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "399902": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.83871
+        }
+      },
+      "404742": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86559
+      },
+      "412001": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "412243": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "419791": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "424647": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "427121": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "434335": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "437019": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "441781": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "449165": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "449377": {
+        "SmartAgri": {
+          "Humidity": 48,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85484
+        }
+      },
+      "456438": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "461749": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85663
+        }
+      },
+      "463652": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "470909": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "pH": 20.86021
+      },
+      "474195": {
+        "SmartAgri": {
+          "Humidity": 47,
+          "Moisture": 100,
+          "Temperature": 26.2,
+          "pH": 20.85663
+        }
+      },
+      "482052": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "489433": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "496973": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "504163": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "511626": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "518877": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "526128": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "pH": 20.85484
+      },
+      "536875": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "544267": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "551623": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "560739": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "568029": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "575406": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "582722": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "590302": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "597703": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "605239": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "612637": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "620033": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "627253": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "635018": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "642384": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85305
+      },
+      "649729": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "657019": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "664313": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "671630": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "679084": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "687117": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "694458": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "701724": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "708919": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "716610": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "724110": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "731401": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "738651": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "747771": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "755476": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "762822": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "770272": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85842
+      },
+      "777608": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "785081": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85484
+      },
+      "792911": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86021
+      },
+      "800519": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.85663
+      },
+      "807942": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 28.9,
+        "pH": 20.86201
+      },
+      "815185": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85663
+      },
+      "822550": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85842
+      },
+      "830424": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86021
+      },
+      "837710": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86201
+      },
+      "845260": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85842
+      },
+      "852674": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85842
+      },
+      "860246": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85663
+      },
+      "867841": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85842
+      },
+      "875142": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "882495": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85842
+      },
+      "889707": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85663
+      },
+      "896996": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.85663
+      },
+      "904453": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "911804": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.4,
+        "pH": 20.86201
+      },
+      "919192": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.4,
+        "pH": 20.86917
+      },
+      "928515": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "935989": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "943274": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "950523": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "957931": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "965249": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "972744": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "980053": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "987785": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "995142": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1002504": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1009853": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1017223": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1024516": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1032083": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1039347": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1046672": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1053942": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1061510": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1068967": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86201
+      },
+      "1076315": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1083606": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1091044": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1098653": {
+        "Humidity": 50,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86021
+      },
+      "1107512": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1114751": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86201
+      },
+      "1122168": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1129422": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1136775": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1143956": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1151174": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1158515": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1166664": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1173984": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1181484": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1188695": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1196036": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1203656": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1211326": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1218606": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1225846": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1233046": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1240366": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1247648": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1255108": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1262665": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1270117": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1277467": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1286713": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1294002": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86021
+      },
+      "1301362": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.8638
+      },
+      "1308941": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86738
+      },
+      "1316272": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1323693": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1331021": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86201
+      },
+      "1338373": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      },
+      "1345883": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.87097
+      },
+      "1353460": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86917
+      },
+      "1360756": {
+        "Humidity": 51,
+        "Moisture": 100,
+        "Temperature": 29.3,
+        "pH": 20.86559
+      }
+    }
+  }
+}
