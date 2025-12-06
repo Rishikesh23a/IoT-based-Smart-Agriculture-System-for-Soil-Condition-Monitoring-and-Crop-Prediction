@@ -45,7 +45,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 • Training files, pipeline, encoded samples, and ML models included
 
-## 💼 Hardware Components Used
+<h2>## 💼 Hardware Components Used<h2>
 
 | 🔌 Component                |   📝Purpose                        |
 |-----------------------------|-------------------------------------|
