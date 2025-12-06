@@ -75,6 +75,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 6️⃣ Power BI dashboard provides analytical insights
 
+```
 🛠 Folder Structure (Based on Your GitHub Repo)
 IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction/
 │
@@ -108,6 +109,7 @@ IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Predic
 │
 ├── README.md
 └── .gitattributes
+```
 
 🚀 Firebase Setup (Short Guide)
 
