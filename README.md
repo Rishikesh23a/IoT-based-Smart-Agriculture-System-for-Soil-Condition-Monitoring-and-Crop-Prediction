@@ -49,7 +49,7 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 ## 💼 Hardware Components Used
 
-| 🔌 Component                | Purpose                            |
+| 🔌 Component                |   📝Purpose                        |
 |-----------------------------|-------------------------------------|
 | **ESP8266 NodeMCU**         | WiFi-enabled microcontroller        |
 | **DHT11**                   | Temperature & humidity sensor       |
