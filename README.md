@@ -199,6 +199,17 @@ Includes:
 
 ✔ Understood full-stack IoT + ML development
 
+## 🔧 Hardware Setup Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction/main/hardware_screenshots/WhatsApp%20Image%202025-12-06%20at%2019.06.18_a66c0a50.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction/main/hardware_screenshots/WhatsApp%20Image%202025-12-06%20at%2019.06.18_ce5e40c5.jpg" width="500">
+</p>
+
+
 <h2>🔮 Future Enhancements</h2>
 
 • Automated irrigation system using relay + water pump
