@@ -13,39 +13,39 @@ This system aims to support farmers with data-driven decision-making and optimiz
 
 🌡 Environmental Monitoring
 
-Temperature & Humidity using DHT11
+• Temperature & Humidity using DHT11
 
-Soil Moisture Detection
+• Soil Moisture Detection
 
-Soil pH Measurement
+• Soil pH Measurement
 
 ☁ Cloud Connectivity
 
-Real-time data updates to Firebase Realtime Database
+• Real-time data updates to Firebase Realtime Database
 
 📱 Mobile App
 
-Dashboard built using MIT App Inventor
+• Dashboard built using MIT App Inventor
 
-Displays live field conditions
+• Displays live field conditions
 
-User-friendly interface
+• User-friendly interface
 
 🤖 Machine Learning Crop Recommendation
 
-ML model trained on real agricultural datasets
+• ML model trained on real agricultural datasets
 
-Suggests suitable crops based on soil/environment conditions
+• Suggests suitable crops based on soil/environment conditions
 
-Includes Streamlit-based deployment screenshots
+• Includes Streamlit-based deployment screenshots
 
 📊 Analytics Dashboard
 
-Power BI Report for historical data visualization
+• Power BI Report for historical data visualization
 
 💾 Dataset & Model Files
 
-Training files, pipeline, encoded samples, and ML models included
+• Training files, pipeline, encoded samples, and ML models included
 
 🧰 Hardware Components Used
 Component	Purpose
