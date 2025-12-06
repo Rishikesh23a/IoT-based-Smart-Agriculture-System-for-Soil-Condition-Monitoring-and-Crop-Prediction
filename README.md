@@ -219,5 +219,7 @@ Includes:
 👨‍💻 Developer
 
 Rushikesh Sable
-MIT AOE College
+
+MIT AOE College,Pune
+
 📧 rushikeshsable9850@gmail.com
