@@ -1,7 +1,7 @@
 # 🌾 IoT-based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction
 
 <p align="center">
-  <img src="./hardware_screenshots/Gemini_Generated_Image_jn00cbjn00cbjn00.png"
+  <img src="hardware_screenshots/Gemini_Generated_Image_jnooc8jnooc8jnoo.png"
        alt="IoT-Based Smart Agriculture System Architecture"
        width="800">
 </p>
